@@ -8,8 +8,25 @@
     <link rel="stylesheet" type="text/css" href="css/zoom.css">
     <link href="https://fonts.googleapis.com/css?family=Lato:400,900" rel="stylesheet">
     <script src="https://use.fontawesome.com/4c9066f1a6.js"></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+    <link href='https://fonts.googleapis.com/css?family=Oswald:700' rel='stylesheet' type='text/css'>
   </head>
   <body>
+<!-- Navigation -->
+    <nav class="navbar navbar-inverse">
+      <div class="container">
+		<ul class="nav navbar-nav">
+              <li><a href="../../~evertn">Home</a></li>
+              <li><a href="../index#publications">Publications</a></li>
+              <li><a href="../NasedkinCV.pdf">CV</a></li> 
+	      <li><a href="index.html">Photos</a></li> 
+		</ul>
+	  </div>
+	</nav>
     <div id="container">
       <!--------------- YOUR NAME OVER HERE -------------->
       <h2 class="header">Evert Nasdkin</h2>
@@ -36,13 +53,13 @@
     var rows = ROWS;
     var squares = SQUARES;
 
-    var layoutStyle = {{ site.layout_style }};
+    var layoutStyle = ROWS;
 
     var configuration = {
       spacing: 10,
       shuffle: false,
-      columns: 4,
-      maxHeight: 400
+      columns: 3,
+      maxHeight: 500
     };
   </script>
   <script src="js/script.js"></script>
