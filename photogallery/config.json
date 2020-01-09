@@ -9,6 +9,14 @@
       "placeholder_path": "./photos/Travel Photography/240365.placeholder.jpg"
     },
     {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Travel Photography/MG_8131.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_8131.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_8131.placeholder.jpg"
+    },
+    {
       "width": 5176,
       "height": 3451,
       "path": "./photos/Travel Photography/1819535.jpg",
@@ -17,12 +25,20 @@
       "placeholder_path": "./photos/Travel Photography/1819535.placeholder.jpg"
     },
     {
-      "width": 4869,
-      "height": 3246,
-      "path": "./photos/Travel Photography/_MG_7472-3.jpg",
-      "compressed_path": "./photos/Travel Photography/_MG_7472-3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/_MG_7472-3.placeholder.jpg"
+      "width": 4948,
+      "height": 3299,
+      "path": "./photos/Travel Photography/MG_6115.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_6115.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_6115.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Travel Photography/MG_7839.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7839.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_7839.placeholder.jpg"
     },
     {
       "width": 4682,
@@ -47,6 +63,14 @@
       "compressed_path": "./photos/Travel Photography/1890330.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Travel Photography/1890330.placeholder.jpg"
+    },
+    {
+      "width": 5157,
+      "height": 3438,
+      "path": "./photos/Travel Photography/MG_7917-3.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7917-3.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Travel Photography/MG_7917-3.placeholder.jpg"
     },
     {
       "width": 3691,
@@ -81,6 +105,22 @@
       "placeholder_path": "./photos/Travel Photography/1819578.placeholder.jpg"
     },
     {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Travel Photography/MG_7421.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7421.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_7421.placeholder.jpg"
+    },
+    {
+      "width": 3456,
+      "height": 5184,
+      "path": "./photos/Travel Photography/MG_5712.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_5712.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_5712.placeholder.jpg"
+    },
+    {
       "width": 5130,
       "height": 3420,
       "path": "./photos/Travel Photography/602798.jpg",
@@ -89,12 +129,20 @@
       "placeholder_path": "./photos/Travel Photography/602798.placeholder.jpg"
     },
     {
-      "width": 5157,
-      "height": 3438,
-      "path": "./photos/Travel Photography/_MG_7917-3.jpg",
-      "compressed_path": "./photos/Travel Photography/_MG_7917-3.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/_MG_7917-3.placeholder.jpg"
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Travel Photography/MG_7418.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7418.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_7418.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Travel Photography/MG_5187.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_5187.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_5187.placeholder.jpg"
     },
     {
       "width": 5489,
@@ -103,14 +151,6 @@
       "compressed_path": "./photos/Travel Photography/DSC_0936.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Travel Photography/DSC_0936.placeholder.jpg"
-    },
-    {
-      "width": 4754,
-      "height": 3169,
-      "path": "./photos/Travel Photography/_MG_8115.jpg",
-      "compressed_path": "./photos/Travel Photography/_MG_8115.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/_MG_8115.placeholder.jpg"
     },
     {
       "width": 5184,
@@ -137,6 +177,62 @@
       "placeholder_path": "./photos/Travel Photography/2003571.placeholder.jpg"
     },
     {
+      "width": 5184,
+      "height": 2916,
+      "path": "./photos/Travel Photography/Verbier_0007.jpg",
+      "compressed_path": "./photos/Travel Photography/Verbier_0007.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/Verbier_0007.placeholder.jpg"
+    },
+    {
+      "width": 5072,
+      "height": 3381,
+      "path": "./photos/Travel Photography/MG_7376.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7376.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_7376.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Travel Photography/MG_7174.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7174.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_7174.placeholder.jpg"
+    },
+    {
+      "width": 4754,
+      "height": 3169,
+      "path": "./photos/Travel Photography/MG_8115.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_8115.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Travel Photography/MG_8115.placeholder.jpg"
+    },
+    {
+      "width": 5073,
+      "height": 3382,
+      "path": "./photos/Travel Photography/MG_7510 (1).jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7510 (1).min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_7510 (1).placeholder.jpg"
+    },
+    {
+      "width": 4869,
+      "height": 3246,
+      "path": "./photos/Travel Photography/MG_7472-3.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7472-3.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Travel Photography/MG_7472-3.placeholder.jpg"
+    },
+    {
+      "width": 5184,
+      "height": 3456,
+      "path": "./photos/Travel Photography/MG_7390.jpg",
+      "compressed_path": "./photos/Travel Photography/MG_7390.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Travel Photography/MG_7390.placeholder.jpg"
+    },
+    {
       "width": 3676,
       "height": 2451,
       "path": "./photos/Travel Photography/Ams4-3.jpg",
@@ -151,14 +247,6 @@
       "compressed_path": "./photos/Travel Photography/Ams2-3.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Travel Photography/Ams2-3.placeholder.jpg"
-    },
-    {
-      "width": 6016,
-      "height": 4016,
-      "path": "./photos/Travel Photography/DSC_1042.jpg",
-      "compressed_path": "./photos/Travel Photography/DSC_1042.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/DSC_1042.placeholder.jpg"
     }
   ],
   "Switzerland": [
