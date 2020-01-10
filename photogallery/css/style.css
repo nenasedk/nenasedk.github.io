@@ -1,5 +1,5 @@
 body {
-  font-family: 'Lato', 'Helvetica', 'Verdana', sans-serif;
+  font-family: 'Hind',  sans-serif;
 }
 
 #container {
@@ -9,17 +9,17 @@ body {
 }
 
 .header {
-  margin-top: 124px;
+  margin-top: 10px;
   margin-bottom: 32px;
-
-  font-size: 30px;
+  color:#333;
+  font-size: 46px;
   font-weight: 900;
   letter-spacing: 3px;
-  text-transform: uppercase;
+  /*text-transform: uppercase*/;
 }
 
 section {
-  margin-bottom: 128px;
+  margin-bottom: 15px;
 }
 
 section img {
