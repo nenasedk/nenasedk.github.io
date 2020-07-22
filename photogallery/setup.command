@@ -7,9 +7,9 @@ if [[ "$OSTYPE" == "darwin"* && -x "$(command -v sips)" ]]; then
   # sips is available
   # low res version of image
   python $SCRIPT_PATH/tools/duplicate.py min
-  sips -Z 640 $SCRIPT_PATH/photos/**/*.min.jpeg &>/dev/null
-  sips -Z 640 $SCRIPT_PATH/photos/**/*.min.png &>/dev/null
-  sips -Z 640 $SCRIPT_PATH/photos/**/*.min.jpg &>/dev/null
+  sips -Z 2048 $SCRIPT_PATH/photos/**/*.min.jpeg &>/dev/null
+  sips -Z 2048 $SCRIPT_PATH/photos/**/*.min.png &>/dev/null
+  sips -Z 2048 $SCRIPT_PATH/photos/**/*.min.jpg &>/dev/null
 
   # placeholder image for lazy loading
   python $SCRIPT_PATH/tools/duplicate.py placeholder
