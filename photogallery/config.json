@@ -517,6 +517,14 @@
       "placeholder_path": "./photos/Heidelberg/DSC_6691 (1).placeholder.jpg"
     },
     {
+      "width": 3684,
+      "height": 5519,
+      "path": "./photos/Heidelberg/DSC_6941.jpg",
+      "compressed_path": "./photos/Heidelberg/DSC_6941.min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Heidelberg/DSC_6941.placeholder.jpg"
+    },
+    {
       "width": 2008,
       "height": 1340,
       "path": "./photos/Heidelberg/DSC_5523.jpg",
