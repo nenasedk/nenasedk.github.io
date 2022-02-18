@@ -251,6 +251,14 @@
   ],
   "Germany": [
     {
+      "width": 4016,
+      "height": 6016,
+      "path": "./photos/Germany/DSC_9849-2 (1).jpg",
+      "compressed_path": "./photos/Germany/DSC_9849-2 (1).min.jpg",
+      "compressed": false,
+      "placeholder_path": "./photos/Germany/DSC_9849-2 (1).placeholder.jpg"
+    },
+    {
       "width": 3805,
       "height": 5327,
       "path": "./photos/Germany/DSC_7614.jpg",
@@ -283,20 +291,20 @@
       "placeholder_path": "./photos/Germany/DSC_0617 (1).placeholder.jpg"
     },
     {
-      "width": 6016,
-      "height": 4016,
-      "path": "./photos/Germany/DSC_6966 (2).jpg",
-      "compressed_path": "./photos/Germany/DSC_6966 (2).min.jpg",
+      "width": 6032,
+      "height": 4032,
+      "path": "./photos/Germany/astro1-2-Edit.jpg",
+      "compressed_path": "./photos/Germany/astro1-2-Edit.min.jpg",
       "compressed": false,
-      "placeholder_path": "./photos/Germany/DSC_6966 (2).placeholder.jpg"
+      "placeholder_path": "./photos/Germany/astro1-2-Edit.placeholder.jpg"
     },
     {
-      "width": 5707,
-      "height": 3810,
-      "path": "./photos/Germany/DSC_6691 (1).jpg",
-      "compressed_path": "./photos/Germany/DSC_6691 (1).min.jpg",
+      "width": 3856,
+      "height": 2570,
+      "path": "./photos/Germany/20200930_204407-01 (1).jpeg",
+      "compressed_path": "./photos/Germany/20200930_204407-01 (1).min.jpeg",
       "compressed": false,
-      "placeholder_path": "./photos/Germany/DSC_6691 (1).placeholder.jpg"
+      "placeholder_path": "./photos/Germany/20200930_204407-01 (1).placeholder.jpeg"
     },
     {
       "width": 3075,
