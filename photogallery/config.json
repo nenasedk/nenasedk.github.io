@@ -1,4 +1,361 @@
-{
+{"Paranal": [
+      {
+        "width": 3755,
+        "height": 5625,
+        "path": "./photos/Paranal/DSC_5182-1.jpg",
+        "compressed_path": "./photos/Paranal/DSC_5182-1.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Paranal/DSC_5182-1.placeholder.jpg"
+      },
+      {
+        "width": 3771,
+        "height": 5641,
+        "path": "./photos/Paranal/ResStarTrail_raw-2-1.jpg",
+        "compressed_path": "./photos/Paranal/ResStarTrail_raw-2-1.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Paranal/ResStarTrail_raw-2-1.placeholder.jpg"
+      },
+      {
+        "width": 6016,
+        "height": 4016,
+        "path": "./photos/Paranal/DSC_5167-1.jpg",
+        "compressed_path": "./photos/Paranal/DSC_5167-1.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Paranal/DSC_5167-1.placeholder.jpg"
+      },
+      {
+        "width": 3943,
+        "height": 5915,
+        "path": "./photos/Paranal/DSC_4730-1.jpg",
+        "compressed_path": "./photos/Paranal/DSC_4730-1.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Paranal/DSC_4730-1.placeholder.jpg"
+      },
+      {
+        "width": 8330,
+        "height": 3693,
+        "path": "./photos/Paranal/DSC_4765-Pano-1.jpg",
+        "compressed_path": "./photos/Paranal/DSC_4765-Pano-1.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Paranal/DSC_4765-Pano-1.placeholder.jpg"
+      },
+      {
+        "width": 8909,
+        "height": 4592,
+        "path": "./photos/Paranal/DSC_5220-Pano-1.jpg",
+        "compressed_path": "./photos/Paranal/DSC_5220-Pano-1.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Paranal/DSC_5220-Pano-1.placeholder.jpg"
+      },
+      {
+        "width": 5788,
+        "height": 3869,
+        "path": "./photos/Paranal/LMC_stacked_V2_raw-2-1.jpg",
+        "compressed_path": "./photos/Paranal/LMC_stacked_V2_raw-2-1.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Paranal/LMC_stacked_V2_raw-2-1.placeholder.jpg"
+      }
+    ],
+    "Colombia": [
+  {
+    "width": 6016,
+    "height": 4016,
+    "path": "./photos/Colombia/DSC_7910 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_7910 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_7910 2-1.placeholder.jpg"
+  },
+  {
+    "width": 5206,
+    "height": 3475,
+    "path": "./photos/Colombia/DSC_8093 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_8093 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_8093 2-1.placeholder.jpg"
+  },
+  {
+    "width": 13600,
+    "height": 5173,
+    "path": "./photos/Colombia/DSC_9135-Pano-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_9135-Pano-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_9135-Pano-1.placeholder.jpg"
+  },
+  {
+    "width": 5888,
+    "height": 3183,
+    "path": "./photos/Colombia/DSC_8128 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_8128 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_8128 2-1.placeholder.jpg"
+  },
+  {
+    "width": 4016,
+    "height": 6016,
+    "path": "./photos/Colombia/DSC_7728 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_7728 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_7728 2-1.placeholder.jpg"
+  },
+  {
+    "width": 5572,
+    "height": 3720,
+    "path": "./photos/Colombia/DSC_7503-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_7503-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_7503-1.placeholder.jpg"
+  },
+  {
+    "width": 5920,
+    "height": 3952,
+    "path": "./photos/Colombia/DSC_6647-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_6647-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_6647-1.placeholder.jpg"
+  },
+  {
+    "width": 5682,
+    "height": 3793,
+    "path": "./photos/Colombia/DSC_8140 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_8140 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_8140 2-1.placeholder.jpg"
+  },
+  {
+    "width": 4016,
+    "height": 6016,
+    "path": "./photos/Colombia/DSC_9237-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_9237-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_9237-1.placeholder.jpg"
+  },
+  {
+    "width": 5775,
+    "height": 3855,
+    "path": "./photos/Colombia/DSC_8331-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_8331-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_8331-1.placeholder.jpg"
+  },
+  {
+    "width": 5856,
+    "height": 3294,
+    "path": "./photos/Colombia/DSC_9051-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_9051-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_9051-1.placeholder.jpg"
+  },
+  {
+    "width": 4016,
+    "height": 6016,
+    "path": "./photos/Colombia/DSC_7938 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_7938 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_7938 2-1.placeholder.jpg"
+  },
+  {
+    "width": 5773,
+    "height": 3854,
+    "path": "./photos/Colombia/DSC_5406-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_5406-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_5406-1.placeholder.jpg"
+  },
+  {
+    "width": 5879,
+    "height": 3925,
+    "path": "./photos/Colombia/DSC_7178-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_7178-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_7178-1.placeholder.jpg"
+  },
+  {
+    "width": 3618,
+    "height": 3618,
+    "path": "./photos/Colombia/DSC_8096 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_8096 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_8096 2-1.placeholder.jpg"
+  },
+  {
+    "width": 5906,
+    "height": 3943,
+    "path": "./photos/Colombia/DSC_7589 2-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_7589 2-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_7589 2-1.placeholder.jpg"
+  },
+  {
+    "width": 5867,
+    "height": 3917,
+    "path": "./photos/Colombia/DSC_8461-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_8461-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_8461-1.placeholder.jpg"
+  },
+  {
+    "width": 9873,
+    "height": 4090,
+    "path": "./photos/Colombia/DSC_7891 2-Pano-1.jpg",
+    "compressed_path": "./photos/Colombia/DSC_7891 2-Pano-1.min.jpg",
+    "compressed": true,
+    "placeholder_path": "./photos/Colombia/DSC_7891 2-Pano-1.placeholder.jpg"
+  }
+],
+    "Heidelberg": [
+      {
+        "width": 3805,
+        "height": 5327,
+        "path": "./photos/Heidelberg/DSC_7614.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_7614.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_7614.placeholder.jpg"
+      },
+      {
+        "width": 6016,
+        "height": 4016,
+        "path": "./photos/Heidelberg/DSC_7990.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_7990.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_7990.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_5572.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5572.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5572.placeholder.jpg"
+      },
+      {
+        "width": 1340,
+        "height": 2008,
+        "path": "./photos/Heidelberg/DSC_5238.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5238.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5238.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_5466.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5466.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5466.placeholder.jpg"
+      },
+      {
+        "width": 6016,
+        "height": 4016,
+        "path": "./photos/Heidelberg/DSC_6966 (1).jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_6966 (1).min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_6966 (1).placeholder.jpg"
+      },
+      {
+        "width": 2192,
+        "height": 3283,
+        "path": "./photos/Heidelberg/DSC_6800.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_6800.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_6800.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_5716.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5716.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5716.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_5847.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5847.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5847.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_6208.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_6208.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_6208.placeholder.jpg"
+      },
+      {
+        "width": 6032,
+        "height": 4032,
+        "path": "./photos/Heidelberg/astro1-2-Edit.jpg",
+        "compressed_path": "./photos/Heidelberg/astro1-2-Edit.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/astro1-2-Edit.placeholder.jpg"
+      },
+      {
+        "width": 1340,
+        "height": 2008,
+        "path": "./photos/Heidelberg/DSC_5447.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5447.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5447.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_5487.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5487.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5487.placeholder.jpg"
+      },
+      {
+        "width": 5707,
+        "height": 3810,
+        "path": "./photos/Heidelberg/DSC_6691 (1).jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_6691 (1).min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_6691 (1).placeholder.jpg"
+      },
+      {
+        "width": 3684,
+        "height": 5519,
+        "path": "./photos/Heidelberg/DSC_6941.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_6941.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_6941.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_5523.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5523.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5523.placeholder.jpg"
+      },
+      {
+        "width": 2008,
+        "height": 1340,
+        "path": "./photos/Heidelberg/DSC_5219.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5219.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5219.placeholder.jpg"
+      },
+      {
+        "width": 1340,
+        "height": 2008,
+        "path": "./photos/Heidelberg/DSC_5436.jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_5436.min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_5436.placeholder.jpg"
+      },
+      {
+        "width": 4016,
+        "height": 6016,
+        "path": "./photos/Heidelberg/DSC_7816 (1).jpg",
+        "compressed_path": "./photos/Heidelberg/DSC_7816 (1).min.jpg",
+        "compressed": true,
+        "placeholder_path": "./photos/Heidelberg/DSC_7816 (1).placeholder.jpg"
+      }
+    ],
   "Travel Photography": [
     {
       "width": 5073,
@@ -373,362 +730,4 @@
       "placeholder_path": "./photos/Switzerland/RegensdorfBush12.placeholder.jpg"
     }
   ],
-  "Colombia": [
-    {
-      "width": 6016,
-      "height": 4016,
-      "path": "./photos/Colombia/DSC_7910 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_7910 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_7910 2-1.placeholder.jpg"
-    },
-    {
-      "width": 5206,
-      "height": 3475,
-      "path": "./photos/Colombia/DSC_8093 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_8093 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_8093 2-1.placeholder.jpg"
-    },
-    {
-      "width": 13600,
-      "height": 5173,
-      "path": "./photos/Colombia/DSC_9135-Pano-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_9135-Pano-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_9135-Pano-1.placeholder.jpg"
-    },
-    {
-      "width": 5888,
-      "height": 3183,
-      "path": "./photos/Colombia/DSC_8128 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_8128 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_8128 2-1.placeholder.jpg"
-    },
-    {
-      "width": 4016,
-      "height": 6016,
-      "path": "./photos/Colombia/DSC_7728 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_7728 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_7728 2-1.placeholder.jpg"
-    },
-    {
-      "width": 5572,
-      "height": 3720,
-      "path": "./photos/Colombia/DSC_7503-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_7503-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_7503-1.placeholder.jpg"
-    },
-    {
-      "width": 5920,
-      "height": 3952,
-      "path": "./photos/Colombia/DSC_6647-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_6647-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_6647-1.placeholder.jpg"
-    },
-    {
-      "width": 5682,
-      "height": 3793,
-      "path": "./photos/Colombia/DSC_8140 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_8140 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_8140 2-1.placeholder.jpg"
-    },
-    {
-      "width": 4016,
-      "height": 6016,
-      "path": "./photos/Colombia/DSC_9237-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_9237-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_9237-1.placeholder.jpg"
-    },
-    {
-      "width": 5775,
-      "height": 3855,
-      "path": "./photos/Colombia/DSC_8331-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_8331-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_8331-1.placeholder.jpg"
-    },
-    {
-      "width": 5856,
-      "height": 3294,
-      "path": "./photos/Colombia/DSC_9051-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_9051-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_9051-1.placeholder.jpg"
-    },
-    {
-      "width": 4016,
-      "height": 6016,
-      "path": "./photos/Colombia/DSC_7938 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_7938 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_7938 2-1.placeholder.jpg"
-    },
-    {
-      "width": 5773,
-      "height": 3854,
-      "path": "./photos/Colombia/DSC_5406-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_5406-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_5406-1.placeholder.jpg"
-    },
-    {
-      "width": 5879,
-      "height": 3925,
-      "path": "./photos/Colombia/DSC_7178-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_7178-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_7178-1.placeholder.jpg"
-    },
-    {
-      "width": 3618,
-      "height": 3618,
-      "path": "./photos/Colombia/DSC_8096 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_8096 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_8096 2-1.placeholder.jpg"
-    },
-    {
-      "width": 5906,
-      "height": 3943,
-      "path": "./photos/Colombia/DSC_7589 2-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_7589 2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_7589 2-1.placeholder.jpg"
-    },
-    {
-      "width": 5867,
-      "height": 3917,
-      "path": "./photos/Colombia/DSC_8461-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_8461-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_8461-1.placeholder.jpg"
-    },
-    {
-      "width": 9873,
-      "height": 4090,
-      "path": "./photos/Colombia/DSC_7891 2-Pano-1.jpg",
-      "compressed_path": "./photos/Colombia/DSC_7891 2-Pano-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Colombia/DSC_7891 2-Pano-1.placeholder.jpg"
-    }
-  ],
-  "Paranal": [
-    {
-      "width": 3755,
-      "height": 5625,
-      "path": "./photos/Paranal/DSC_5182-1.jpg",
-      "compressed_path": "./photos/Paranal/DSC_5182-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Paranal/DSC_5182-1.placeholder.jpg"
-    },
-    {
-      "width": 3771,
-      "height": 5641,
-      "path": "./photos/Paranal/ResStarTrail_raw-2-1.jpg",
-      "compressed_path": "./photos/Paranal/ResStarTrail_raw-2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Paranal/ResStarTrail_raw-2-1.placeholder.jpg"
-    },
-    {
-      "width": 6016,
-      "height": 4016,
-      "path": "./photos/Paranal/DSC_5167-1.jpg",
-      "compressed_path": "./photos/Paranal/DSC_5167-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Paranal/DSC_5167-1.placeholder.jpg"
-    },
-    {
-      "width": 3943,
-      "height": 5915,
-      "path": "./photos/Paranal/DSC_4730-1.jpg",
-      "compressed_path": "./photos/Paranal/DSC_4730-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Paranal/DSC_4730-1.placeholder.jpg"
-    },
-    {
-      "width": 8330,
-      "height": 3693,
-      "path": "./photos/Paranal/DSC_4765-Pano-1.jpg",
-      "compressed_path": "./photos/Paranal/DSC_4765-Pano-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Paranal/DSC_4765-Pano-1.placeholder.jpg"
-    },
-    {
-      "width": 8909,
-      "height": 4592,
-      "path": "./photos/Paranal/DSC_5220-Pano-1.jpg",
-      "compressed_path": "./photos/Paranal/DSC_5220-Pano-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Paranal/DSC_5220-Pano-1.placeholder.jpg"
-    },
-    {
-      "width": 5788,
-      "height": 3869,
-      "path": "./photos/Paranal/LMC_stacked_V2_raw-2-1.jpg",
-      "compressed_path": "./photos/Paranal/LMC_stacked_V2_raw-2-1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Paranal/LMC_stacked_V2_raw-2-1.placeholder.jpg"
-    }
-  ],
-  "Heidelberg": [
-    {
-      "width": 3805,
-      "height": 5327,
-      "path": "./photos/Heidelberg/DSC_7614.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_7614.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_7614.placeholder.jpg"
-    },
-    {
-      "width": 6016,
-      "height": 4016,
-      "path": "./photos/Heidelberg/DSC_7990.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_7990.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_7990.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5572.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5572.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5572.placeholder.jpg"
-    },
-    {
-      "width": 1340,
-      "height": 2008,
-      "path": "./photos/Heidelberg/DSC_5238.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5238.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5238.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5466.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5466.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5466.placeholder.jpg"
-    },
-    {
-      "width": 6016,
-      "height": 4016,
-      "path": "./photos/Heidelberg/DSC_6966 (1).jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_6966 (1).min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_6966 (1).placeholder.jpg"
-    },
-    {
-      "width": 2192,
-      "height": 3283,
-      "path": "./photos/Heidelberg/DSC_6800.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_6800.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_6800.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5716.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5716.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5716.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5847.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5847.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5847.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_6208.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_6208.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_6208.placeholder.jpg"
-    },
-    {
-      "width": 6032,
-      "height": 4032,
-      "path": "./photos/Heidelberg/astro1-2-Edit.jpg",
-      "compressed_path": "./photos/Heidelberg/astro1-2-Edit.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/astro1-2-Edit.placeholder.jpg"
-    },
-    {
-      "width": 1340,
-      "height": 2008,
-      "path": "./photos/Heidelberg/DSC_5447.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5447.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5447.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5487.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5487.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5487.placeholder.jpg"
-    },
-    {
-      "width": 5707,
-      "height": 3810,
-      "path": "./photos/Heidelberg/DSC_6691 (1).jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_6691 (1).min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_6691 (1).placeholder.jpg"
-    },
-    {
-      "width": 3684,
-      "height": 5519,
-      "path": "./photos/Heidelberg/DSC_6941.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_6941.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_6941.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5523.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5523.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5523.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5219.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5219.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5219.placeholder.jpg"
-    },
-    {
-      "width": 1340,
-      "height": 2008,
-      "path": "./photos/Heidelberg/DSC_5436.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5436.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5436.placeholder.jpg"
-    },
-    {
-      "width": 4016,
-      "height": 6016,
-      "path": "./photos/Heidelberg/DSC_7816 (1).jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_7816 (1).min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_7816 (1).placeholder.jpg"
-    }
-  ]
 }
