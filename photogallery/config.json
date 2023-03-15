@@ -49,14 +49,6 @@
       "placeholder_path": "./photos/Travel Photography/1890330.placeholder.jpg"
     },
     {
-      "width": 5184,
-      "height": 3456,
-      "path": "./photos/Travel Photography/MG_7418.jpg",
-      "compressed_path": "./photos/Travel Photography/MG_7418.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/MG_7418.placeholder.jpg"
-    },
-    {
       "width": 4948,
       "height": 3299,
       "path": "./photos/Travel Photography/MG_6115.jpg",
@@ -105,14 +97,6 @@
       "placeholder_path": "./photos/Travel Photography/DSC_1836.placeholder.jpg"
     },
     {
-      "width": 4754,
-      "height": 3169,
-      "path": "./photos/Travel Photography/MG_8115.jpg",
-      "compressed_path": "./photos/Travel Photography/MG_8115.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/MG_8115.placeholder.jpg"
-    },
-    {
       "width": 5176,
       "height": 3451,
       "path": "./photos/Travel Photography/1819535.jpg",
@@ -153,20 +137,20 @@
       "placeholder_path": "./photos/Travel Photography/MG_8131.placeholder.jpg"
     },
     {
+      "width": 5369,
+      "height": 3584,
+      "path": "./photos/Travel Photography/DSC_2157-1.jpg",
+      "compressed_path": "./photos/Travel Photography/DSC_2157-1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Travel Photography/DSC_2157-1.placeholder.jpg"
+    },
+    {
       "width": 3676,
       "height": 2451,
       "path": "./photos/Travel Photography/Ams4-3.jpg",
       "compressed_path": "./photos/Travel Photography/Ams4-3.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Travel Photography/Ams4-3.placeholder.jpg"
-    },
-    {
-      "width": 5130,
-      "height": 3420,
-      "path": "./photos/Travel Photography/602798.jpg",
-      "compressed_path": "./photos/Travel Photography/602798.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Travel Photography/602798.placeholder.jpg"
     },
     {
       "width": 5489,
@@ -217,6 +201,14 @@
       "placeholder_path": "./photos/Travel Photography/Ams5.placeholder.jpg"
     },
     {
+      "width": 5709,
+      "height": 3811,
+      "path": "./photos/Travel Photography/DSC_2404-1.jpg",
+      "compressed_path": "./photos/Travel Photography/DSC_2404-1.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Travel Photography/DSC_2404-1.placeholder.jpg"
+    },
+    {
       "width": 5112,
       "height": 3408,
       "path": "./photos/Travel Photography/1819578.jpg",
@@ -259,14 +251,6 @@
       "placeholder_path": "./photos/Germany/DSC_9849-2 (1).placeholder.jpg"
     },
     {
-      "width": 3805,
-      "height": 5327,
-      "path": "./photos/Germany/DSC_7614.jpg",
-      "compressed_path": "./photos/Germany/DSC_7614.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Germany/DSC_7614.placeholder.jpg"
-    },
-    {
       "width": 5934,
       "height": 3961,
       "path": "./photos/Germany/DSC_9980.jpg",
@@ -275,12 +259,12 @@
       "placeholder_path": "./photos/Germany/DSC_9980.placeholder.jpg"
     },
     {
-      "width": 2192,
-      "height": 3283,
-      "path": "./photos/Germany/DSC_6800.jpg",
-      "compressed_path": "./photos/Germany/DSC_6800.min.jpg",
+      "width": 6016,
+      "height": 4016,
+      "path": "./photos/Germany/DSC_4517-1.jpg",
+      "compressed_path": "./photos/Germany/DSC_4517-1.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Germany/DSC_6800.placeholder.jpg"
+      "placeholder_path": "./photos/Germany/DSC_4517-1.placeholder.jpg"
     },
     {
       "width": 3784,
@@ -289,14 +273,6 @@
       "compressed_path": "./photos/Germany/DSC_0617 (1).min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Germany/DSC_0617 (1).placeholder.jpg"
-    },
-    {
-      "width": 6032,
-      "height": 4032,
-      "path": "./photos/Germany/astro1-2-Edit.jpg",
-      "compressed_path": "./photos/Germany/astro1-2-Edit.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Germany/astro1-2-Edit.placeholder.jpg"
     },
     {
       "width": 3856,
@@ -321,14 +297,6 @@
       "compressed_path": "./photos/Germany/DSC_0432 (1).min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Germany/DSC_0432 (1).placeholder.jpg"
-    },
-    {
-      "width": 4016,
-      "height": 6016,
-      "path": "./photos/Germany/DSC_7816 (1).jpg",
-      "compressed_path": "./photos/Germany/DSC_7816 (1).min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Germany/DSC_7816 (1).placeholder.jpg"
     }
   ],
   "Switzerland": [
@@ -357,30 +325,6 @@
       "placeholder_path": "./photos/Switzerland/Music3.placeholder.jpg"
     },
     {
-      "width": 2852,
-      "height": 1924,
-      "path": "./photos/Switzerland/ZurichStreet1.jpg",
-      "compressed_path": "./photos/Switzerland/ZurichStreet1.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Switzerland/ZurichStreet1.placeholder.jpg"
-    },
-    {
-      "width": 3628,
-      "height": 2361,
-      "path": "./photos/Switzerland/Bellvueplatz12.jpg",
-      "compressed_path": "./photos/Switzerland/Bellvueplatz12.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Switzerland/Bellvueplatz12.placeholder.jpg"
-    },
-    {
-      "width": 2816,
-      "height": 1912,
-      "path": "./photos/Switzerland/ZurichStreet4.jpg",
-      "compressed_path": "./photos/Switzerland/ZurichStreet4.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Switzerland/ZurichStreet4.placeholder.jpg"
-    },
-    {
       "width": 3642,
       "height": 2361,
       "path": "./photos/Switzerland/Licht34-2.jpg",
@@ -389,36 +333,12 @@
       "placeholder_path": "./photos/Switzerland/Licht34-2.placeholder.jpg"
     },
     {
-      "width": 3672,
-      "height": 2400,
-      "path": "./photos/Switzerland/Licht12.jpg",
-      "compressed_path": "./photos/Switzerland/Licht12.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Switzerland/Licht12.placeholder.jpg"
-    },
-    {
-      "width": 3949,
-      "height": 5916,
-      "path": "./photos/Switzerland/DSC_9894.jpg",
-      "compressed_path": "./photos/Switzerland/DSC_9894.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Switzerland/DSC_9894.placeholder.jpg"
-    },
-    {
       "width": 2372,
       "height": 3672,
       "path": "./photos/Switzerland/Licht12-2.jpg",
       "compressed_path": "./photos/Switzerland/Licht12-2.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Switzerland/Licht12-2.placeholder.jpg"
-    },
-    {
-      "width": 6016,
-      "height": 4016,
-      "path": "./photos/Switzerland/DSC_9917.jpg",
-      "compressed_path": "./photos/Switzerland/DSC_9917.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Switzerland/DSC_9917.placeholder.jpg"
     },
     {
       "width": 6016,
@@ -659,12 +579,20 @@
   ],
   "Heidelberg": [
     {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5217.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5217.min.jpg",
+      "width": 3805,
+      "height": 5327,
+      "path": "./photos/Heidelberg/DSC_7614.jpg",
+      "compressed_path": "./photos/Heidelberg/DSC_7614.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5217.placeholder.jpg"
+      "placeholder_path": "./photos/Heidelberg/DSC_7614.placeholder.jpg"
+    },
+    {
+      "width": 6016,
+      "height": 4016,
+      "path": "./photos/Heidelberg/DSC_7990.jpg",
+      "compressed_path": "./photos/Heidelberg/DSC_7990.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Heidelberg/DSC_7990.placeholder.jpg"
     },
     {
       "width": 2008,
@@ -677,34 +605,10 @@
     {
       "width": 1340,
       "height": 2008,
-      "path": "./photos/Heidelberg/DSC_5228.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5228.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5228.placeholder.jpg"
-    },
-    {
-      "width": 1340,
-      "height": 2008,
       "path": "./photos/Heidelberg/DSC_5238.jpg",
       "compressed_path": "./photos/Heidelberg/DSC_5238.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Heidelberg/DSC_5238.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5617.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5617.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5617.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5261.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5261.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5261.placeholder.jpg"
     },
     {
       "width": 2008,
@@ -723,20 +627,20 @@
       "placeholder_path": "./photos/Heidelberg/DSC_6966 (1).placeholder.jpg"
     },
     {
+      "width": 2192,
+      "height": 3283,
+      "path": "./photos/Heidelberg/DSC_6800.jpg",
+      "compressed_path": "./photos/Heidelberg/DSC_6800.min.jpg",
+      "compressed": true,
+      "placeholder_path": "./photos/Heidelberg/DSC_6800.placeholder.jpg"
+    },
+    {
       "width": 2008,
       "height": 1340,
       "path": "./photos/Heidelberg/DSC_5716.jpg",
       "compressed_path": "./photos/Heidelberg/DSC_5716.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Heidelberg/DSC_5716.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5258.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5258.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5258.placeholder.jpg"
     },
     {
       "width": 2008,
@@ -755,12 +659,12 @@
       "placeholder_path": "./photos/Heidelberg/DSC_6208.placeholder.jpg"
     },
     {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5517.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5517.min.jpg",
+      "width": 6032,
+      "height": 4032,
+      "path": "./photos/Heidelberg/astro1-2-Edit.jpg",
+      "compressed_path": "./photos/Heidelberg/astro1-2-Edit.min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5517.placeholder.jpg"
+      "placeholder_path": "./photos/Heidelberg/astro1-2-Edit.placeholder.jpg"
     },
     {
       "width": 1340,
@@ -769,22 +673,6 @@
       "compressed_path": "./photos/Heidelberg/DSC_5447.min.jpg",
       "compressed": true,
       "placeholder_path": "./photos/Heidelberg/DSC_5447.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5679.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5679.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5679.placeholder.jpg"
-    },
-    {
-      "width": 1434,
-      "height": 2008,
-      "path": "./photos/Heidelberg/DSC_5255.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5255.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5255.placeholder.jpg"
     },
     {
       "width": 2008,
@@ -821,22 +709,6 @@
     {
       "width": 2008,
       "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5655.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5655.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5655.placeholder.jpg"
-    },
-    {
-      "width": 1340,
-      "height": 2008,
-      "path": "./photos/Heidelberg/DSC_5792.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5792.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5792.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
       "path": "./photos/Heidelberg/DSC_5219.jpg",
       "compressed_path": "./photos/Heidelberg/DSC_5219.min.jpg",
       "compressed": true,
@@ -851,20 +723,12 @@
       "placeholder_path": "./photos/Heidelberg/DSC_5436.placeholder.jpg"
     },
     {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5422.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5422.min.jpg",
+      "width": 4016,
+      "height": 6016,
+      "path": "./photos/Heidelberg/DSC_7816 (1).jpg",
+      "compressed_path": "./photos/Heidelberg/DSC_7816 (1).min.jpg",
       "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5422.placeholder.jpg"
-    },
-    {
-      "width": 2008,
-      "height": 1340,
-      "path": "./photos/Heidelberg/DSC_5226.jpg",
-      "compressed_path": "./photos/Heidelberg/DSC_5226.min.jpg",
-      "compressed": true,
-      "placeholder_path": "./photos/Heidelberg/DSC_5226.placeholder.jpg"
+      "placeholder_path": "./photos/Heidelberg/DSC_7816 (1).placeholder.jpg"
     }
   ]
 }
